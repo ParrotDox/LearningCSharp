@@ -1,0 +1,7 @@
+B:\C#\15.RefAndOut\RefAndOut\bin\Debug\RefAndOut.exe.config
+B:\C#\15.RefAndOut\RefAndOut\bin\Debug\RefAndOut.exe
+B:\C#\15.RefAndOut\RefAndOut\bin\Debug\RefAndOut.pdb
+B:\C#\15.RefAndOut\RefAndOut\obj\Debug\RefAndOut.csproj.AssemblyReference.cache
+B:\C#\15.RefAndOut\RefAndOut\obj\Debug\RefAndOut.csproj.CoreCompileInputs.cache
+B:\C#\15.RefAndOut\RefAndOut\obj\Debug\RefAndOut.exe
+B:\C#\15.RefAndOut\RefAndOut\obj\Debug\RefAndOut.pdb

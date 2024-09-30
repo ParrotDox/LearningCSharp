@@ -1,0 +1,7 @@
+B:\C#\10.If Else Ternar-operation\IfElseTernarOperations\IfElseTernarOperations\bin\Debug\IfElseTernarOperations.exe.config
+B:\C#\10.If Else Ternar-operation\IfElseTernarOperations\IfElseTernarOperations\bin\Debug\IfElseTernarOperations.exe
+B:\C#\10.If Else Ternar-operation\IfElseTernarOperations\IfElseTernarOperations\bin\Debug\IfElseTernarOperations.pdb
+B:\C#\10.If Else Ternar-operation\IfElseTernarOperations\IfElseTernarOperations\obj\Debug\IfElseTernarOperations.csproj.AssemblyReference.cache
+B:\C#\10.If Else Ternar-operation\IfElseTernarOperations\IfElseTernarOperations\obj\Debug\IfElseTernarOperations.csproj.CoreCompileInputs.cache
+B:\C#\10.If Else Ternar-operation\IfElseTernarOperations\IfElseTernarOperations\obj\Debug\IfElseTernarOperations.exe
+B:\C#\10.If Else Ternar-operation\IfElseTernarOperations\IfElseTernarOperations\obj\Debug\IfElseTernarOperations.pdb

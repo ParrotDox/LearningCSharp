@@ -1,0 +1,7 @@
+B:\C#\11.LoopOperations\LoopOperations\LoopOperations\bin\Debug\LoopOperations.exe.config
+B:\C#\11.LoopOperations\LoopOperations\LoopOperations\bin\Debug\LoopOperations.exe
+B:\C#\11.LoopOperations\LoopOperations\LoopOperations\bin\Debug\LoopOperations.pdb
+B:\C#\11.LoopOperations\LoopOperations\LoopOperations\obj\Debug\LoopOperations.csproj.AssemblyReference.cache
+B:\C#\11.LoopOperations\LoopOperations\LoopOperations\obj\Debug\LoopOperations.csproj.CoreCompileInputs.cache
+B:\C#\11.LoopOperations\LoopOperations\LoopOperations\obj\Debug\LoopOperations.exe
+B:\C#\11.LoopOperations\LoopOperations\LoopOperations\obj\Debug\LoopOperations.pdb

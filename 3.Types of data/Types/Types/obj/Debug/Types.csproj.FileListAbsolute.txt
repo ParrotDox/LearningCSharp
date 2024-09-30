@@ -1,0 +1,7 @@
+B:\C#\3.Types of data\Types\Types\bin\Debug\Types.exe.config
+B:\C#\3.Types of data\Types\Types\bin\Debug\Types.exe
+B:\C#\3.Types of data\Types\Types\bin\Debug\Types.pdb
+B:\C#\3.Types of data\Types\Types\obj\Debug\Types.csproj.AssemblyReference.cache
+B:\C#\3.Types of data\Types\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+B:\C#\3.Types of data\Types\Types\obj\Debug\Types.exe
+B:\C#\3.Types of data\Types\Types\obj\Debug\Types.pdb

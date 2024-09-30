@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\C#\\10.If Else Ternar-operation\\IfElseTernarOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A69237-6CF6-4E4A-BBC8-FC4B15485084}|IfElseTernarOperations\\IfElseTernarOperations.csproj|b:\\c#\\10.if else ternar-operation\\ifelseternaroperations\\ifelseternaroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A69237-6CF6-4E4A-BBC8-FC4B15485084}|IfElseTernarOperations\\IfElseTernarOperations.csproj|solutionrelative:ifelseternaroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 836,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\C#\\10.If Else Ternar-operation\\IfElseTernarOperations\\IfElseTernarOperations\\Program.cs",
+              "RelativeDocumentMoniker": "IfElseTernarOperations\\Program.cs",
+              "ToolTip": "B:\\C#\\10.If Else Ternar-operation\\IfElseTernarOperations\\IfElseTernarOperations\\Program.cs",
+              "RelativeToolTip": "IfElseTernarOperations\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:49:36.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

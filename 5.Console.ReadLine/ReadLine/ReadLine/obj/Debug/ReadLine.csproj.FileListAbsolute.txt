@@ -1,0 +1,7 @@
+B:\C#\5.Console.ReadLine\ReadLine\ReadLine\bin\Debug\ReadLine.exe.config
+B:\C#\5.Console.ReadLine\ReadLine\ReadLine\bin\Debug\ReadLine.exe
+B:\C#\5.Console.ReadLine\ReadLine\ReadLine\bin\Debug\ReadLine.pdb
+B:\C#\5.Console.ReadLine\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.AssemblyReference.cache
+B:\C#\5.Console.ReadLine\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.CoreCompileInputs.cache
+B:\C#\5.Console.ReadLine\ReadLine\ReadLine\obj\Debug\ReadLine.exe
+B:\C#\5.Console.ReadLine\ReadLine\ReadLine\obj\Debug\ReadLine.pdb

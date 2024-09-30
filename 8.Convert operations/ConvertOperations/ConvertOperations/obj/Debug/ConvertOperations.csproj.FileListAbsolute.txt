@@ -1,0 +1,7 @@
+B:\C#\8.Convert Operations\ConvertOperations\ConvertOperations\obj\Debug\ConvertOperations.csproj.AssemblyReference.cache
+B:\C#\8.Convert Operations\ConvertOperations\ConvertOperations\obj\Debug\ConvertOperations.csproj.CoreCompileInputs.cache
+B:\C#\8.Convert Operations\ConvertOperations\ConvertOperations\bin\Debug\ConvertOperations.exe.config
+B:\C#\8.Convert Operations\ConvertOperations\ConvertOperations\bin\Debug\ConvertOperations.exe
+B:\C#\8.Convert Operations\ConvertOperations\ConvertOperations\bin\Debug\ConvertOperations.pdb
+B:\C#\8.Convert Operations\ConvertOperations\ConvertOperations\obj\Debug\ConvertOperations.exe
+B:\C#\8.Convert Operations\ConvertOperations\ConvertOperations\obj\Debug\ConvertOperations.pdb

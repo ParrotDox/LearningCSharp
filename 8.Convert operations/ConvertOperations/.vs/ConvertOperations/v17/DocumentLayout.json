@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\C#\\8.Convert Operations\\ConvertOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71533FC6-DB29-4E48-B648-793B9CC19D3D}|ConvertOperations\\ConvertOperations.csproj|b:\\c#\\8.convert operations\\convertoperations\\convertoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71533FC6-DB29-4E48-B648-793B9CC19D3D}|ConvertOperations\\ConvertOperations.csproj|solutionrelative:convertoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 836,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\C#\\8.Convert Operations\\ConvertOperations\\ConvertOperations\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertOperations\\Program.cs",
+              "ToolTip": "B:\\C#\\8.Convert Operations\\ConvertOperations\\ConvertOperations\\Program.cs",
+              "RelativeToolTip": "ConvertOperations\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:06:25.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+B:\C#\22.Namespace\Namespace\bin\Debug\Namespace.exe.config
+B:\C#\22.Namespace\Namespace\bin\Debug\Namespace.exe
+B:\C#\22.Namespace\Namespace\bin\Debug\Namespace.pdb
+B:\C#\22.Namespace\Namespace\obj\Debug\Namespace.csproj.AssemblyReference.cache
+B:\C#\22.Namespace\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
+B:\C#\22.Namespace\Namespace\obj\Debug\Namespace.exe
+B:\C#\22.Namespace\Namespace\obj\Debug\Namespace.pdb
+B:\C#\22.Namespace\Namespace\bin\Debug\Newtonsoft.Json.dll
+B:\C#\22.Namespace\Namespace\bin\Debug\Newtonsoft.Json.xml
+B:\C#\22.Namespace\Namespace\obj\Debug\Namespace.csproj.Up2Date

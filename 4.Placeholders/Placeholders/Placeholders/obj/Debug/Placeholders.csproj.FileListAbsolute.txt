@@ -1,0 +1,7 @@
+B:\C#\4.Placeholders\Placeholders\Placeholders\bin\Debug\Placeholders.exe.config
+B:\C#\4.Placeholders\Placeholders\Placeholders\bin\Debug\Placeholders.exe
+B:\C#\4.Placeholders\Placeholders\Placeholders\bin\Debug\Placeholders.pdb
+B:\C#\4.Placeholders\Placeholders\Placeholders\obj\Debug\Placeholders.csproj.AssemblyReference.cache
+B:\C#\4.Placeholders\Placeholders\Placeholders\obj\Debug\Placeholders.csproj.CoreCompileInputs.cache
+B:\C#\4.Placeholders\Placeholders\Placeholders\obj\Debug\Placeholders.exe
+B:\C#\4.Placeholders\Placeholders\Placeholders\obj\Debug\Placeholders.pdb

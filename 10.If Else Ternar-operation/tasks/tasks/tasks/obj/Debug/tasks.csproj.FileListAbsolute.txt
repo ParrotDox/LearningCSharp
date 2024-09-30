@@ -1,0 +1,7 @@
+B:\C#\10.If Else Ternar-operation\tasks\tasks\tasks\bin\Debug\tasks.exe.config
+B:\C#\10.If Else Ternar-operation\tasks\tasks\tasks\bin\Debug\tasks.exe
+B:\C#\10.If Else Ternar-operation\tasks\tasks\tasks\bin\Debug\tasks.pdb
+B:\C#\10.If Else Ternar-operation\tasks\tasks\tasks\obj\Debug\tasks.csproj.AssemblyReference.cache
+B:\C#\10.If Else Ternar-operation\tasks\tasks\tasks\obj\Debug\tasks.csproj.CoreCompileInputs.cache
+B:\C#\10.If Else Ternar-operation\tasks\tasks\tasks\obj\Debug\tasks.exe
+B:\C#\10.If Else Ternar-operation\tasks\tasks\tasks\obj\Debug\tasks.pdb

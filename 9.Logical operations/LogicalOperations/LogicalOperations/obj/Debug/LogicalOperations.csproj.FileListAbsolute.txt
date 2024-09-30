@@ -1,0 +1,7 @@
+B:\C#\9.Logical operations\LogicalOperations\LogicalOperations\bin\Debug\LogicalOperations.exe.config
+B:\C#\9.Logical operations\LogicalOperations\LogicalOperations\bin\Debug\LogicalOperations.exe
+B:\C#\9.Logical operations\LogicalOperations\LogicalOperations\bin\Debug\LogicalOperations.pdb
+B:\C#\9.Logical operations\LogicalOperations\LogicalOperations\obj\Debug\LogicalOperations.csproj.AssemblyReference.cache
+B:\C#\9.Logical operations\LogicalOperations\LogicalOperations\obj\Debug\LogicalOperations.csproj.CoreCompileInputs.cache
+B:\C#\9.Logical operations\LogicalOperations\LogicalOperations\obj\Debug\LogicalOperations.exe
+B:\C#\9.Logical operations\LogicalOperations\LogicalOperations\obj\Debug\LogicalOperations.pdb
