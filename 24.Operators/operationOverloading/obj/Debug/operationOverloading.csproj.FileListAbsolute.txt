@@ -1,0 +1,7 @@
+C:\C#\LearningCSharp\24.Operators\operationOverloading\bin\Debug\operationOverloading.exe.config
+C:\C#\LearningCSharp\24.Operators\operationOverloading\bin\Debug\operationOverloading.exe
+C:\C#\LearningCSharp\24.Operators\operationOverloading\bin\Debug\operationOverloading.pdb
+C:\C#\LearningCSharp\24.Operators\operationOverloading\obj\Debug\operationOverloading.csproj.AssemblyReference.cache
+C:\C#\LearningCSharp\24.Operators\operationOverloading\obj\Debug\operationOverloading.csproj.CoreCompileInputs.cache
+C:\C#\LearningCSharp\24.Operators\operationOverloading\obj\Debug\operationOverloading.exe
+C:\C#\LearningCSharp\24.Operators\operationOverloading\obj\Debug\operationOverloading.pdb

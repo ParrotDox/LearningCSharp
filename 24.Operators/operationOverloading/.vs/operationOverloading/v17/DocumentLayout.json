@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\LearningCSharp\\24.Operators\\operationOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{939C5FF1-78A0-4070-A2B1-F77B578BA06C}|operationOverloading.csproj|c:\\c#\\learningcsharp\\24.operators\\operationoverloading\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939C5FF1-78A0-4070-A2B1-F77B578BA06C}|operationOverloading.csproj|solutionrelative:money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{939C5FF1-78A0-4070-A2B1-F77B578BA06C}|operationOverloading.csproj|c:\\c#\\learningcsharp\\24.operators\\operationoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{939C5FF1-78A0-4070-A2B1-F77B578BA06C}|operationOverloading.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 836,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\C#\\LearningCSharp\\24.Operators\\operationOverloading\\Money.cs",
+              "RelativeDocumentMoniker": "Money.cs",
+              "ToolTip": "C:\\C#\\LearningCSharp\\24.Operators\\operationOverloading\\Money.cs",
+              "RelativeToolTip": "Money.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:56:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\LearningCSharp\\24.Operators\\operationOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\LearningCSharp\\24.Operators\\operationOverloading\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:56:17.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
